@@ -41,7 +41,7 @@
     "file-saver": "2.0.5",
     "lodash.get": "4.4.2",
     "lodash.set": "4.3.2",
-    "luxon": "1.25.0",
+    "luxon": "1.27.0",
     "ngx-toastr": "13.1.0",
     "rxjs": "6.6.3",
     "spring-flo": "https://github.com/spring-projects/spring-flo#6429c15cef4985e80fb59247211fb7f539b26074",
