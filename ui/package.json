@@ -42,7 +42,7 @@
     "lodash.get": "4.4.2",
     "lodash.set": "4.3.2",
     "luxon": "1.25.0",
-    "ngx-toastr": "13.1.0",
+    "ngx-toastr": "13.2.1",
     "rxjs": "6.6.3",
     "spring-flo": "https://github.com/spring-projects/spring-flo#6429c15cef4985e80fb59247211fb7f539b26074",
     "tippy.js": "6.2.7",
