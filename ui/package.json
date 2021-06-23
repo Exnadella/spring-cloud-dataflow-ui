@@ -45,7 +45,7 @@
     "ngx-toastr": "13.1.0",
     "rxjs": "6.6.3",
     "spring-flo": "https://github.com/spring-projects/spring-flo#6429c15cef4985e80fb59247211fb7f539b26074",
-    "tippy.js": "6.2.7",
+    "tippy.js": "6.3.1",
     "tslib": "2.2.0",
     "uuid": "8.3.1",
     "zone.js": "0.11.4"
